@@ -1,0 +1,10 @@
+            - name: Web TypeScript Build
+  # You may pin to the exact commit or the version.
+  # uses: lanye74/action-build-typescript@1074839499fab5c8a1c9f711760b634e5b61c2eb
+  uses: lanye74/action-build-typescript@v0.0.0
+  with:
+    # The name of the branch the action should push the compiled code
+    branch: # optional, default is dist
+    # Your GitHub secret token
+    githubToken: 
+          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
