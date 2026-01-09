@@ -1,0 +1,8 @@
+{
+  "name": "Hon'ble MLA Aga Syed Muntazir Mehdi",
+  "description": "Official public interface for Hon'ble MLA Aga Syed Muntazir Mehdi, featuring grievance redressal, development tracking, and public participation in Budgam.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
