@@ -7,4 +7,4 @@
     branch: # optional, default is dist
     # Your GitHub secret token
     githubToken: 
-          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
+          THESECRET
